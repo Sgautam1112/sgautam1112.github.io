@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sumeetgautam.com/sitemap.xml
+Sitemap: https://sumeetgautamcfo.com/sitemap.xml
